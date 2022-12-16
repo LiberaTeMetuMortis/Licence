@@ -1,5 +1,9 @@
 RewardSystem:
-  - name: "MetuMortis"
+  - name: MetuMortis
     discriminator: "4431"
     id: "314774529207566337"
-    hwid: "f2119fe5a12e4740284a680c3f0e0f4a"
+    hwid: f2119fe5a12e4740284a680c3f0e0f4a
+  - name: MetuMortis
+    discriminator: "4431"
+    id: "314774529207566337"
+    hwid: 915a68cb00688904147f78cb7f3ab666
