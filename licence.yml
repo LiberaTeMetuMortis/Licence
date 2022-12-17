@@ -7,3 +7,7 @@ RewardSystem:
     discriminator: "2584"
     id: "450927175047315457"
     hwid: f2119fe5a12e4740284a680c3f0e0f4a
+  - name: Yunus Emre
+    discriminator: "0618"
+    id: "397782545950965782"
+    hwid: 144d73efa5fcacefd34027cce71b3307
