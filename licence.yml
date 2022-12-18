@@ -15,3 +15,7 @@ RewardSystem:
     discriminator: "2584"
     id: "450927175047315457"
     hwid: a547c78589be23b1c33acb5244e0c6fd
+  - name: Büyük Proje
+    discriminator: "5773"
+    id: "789879042488008724"
+    hwid: "6116"
