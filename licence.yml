@@ -11,3 +11,7 @@ RewardSystem:
     discriminator: "0618"
     id: "397782545950965782"
     hwid: 144d73efa5fcacefd34027cce71b3307
+  - name: copz
+    discriminator: "2584"
+    id: "450927175047315457"
+    hwid: a547c78589be23b1c33acb5244e0c6fd
