@@ -20,3 +20,7 @@ DamageIndicator:
     discriminator: "4431"
     id: "314774529207566337"
     hwid: 915a68cb00688904147f78cb7f3ab666
+  - name: MetuMortis
+    discriminator: "4431"
+    id: "314774529207566337"
+    hwid: a547c78589be23b1c33acb5244e0c6fd
