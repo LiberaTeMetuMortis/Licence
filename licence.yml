@@ -19,8 +19,4 @@ RewardSystem:
     discriminator: "0618"
     id: "397782545950965782"
     licence_code: 22a5a71ebb6bfc6cb2df491f975be0f0b06b
-  - name: Erkan l Veloxia
-    discriminator: "0551"
-    id: "219078355172065280"
-    licence_code: cuuuuuuuuuuuuuuuuu
 DamageIndicator: []
