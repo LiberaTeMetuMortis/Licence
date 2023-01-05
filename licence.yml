@@ -3,10 +3,6 @@ RewardSystem:
     discriminator: "0618"
     id: "397782545950965782"
     hwid: 144d73efa5fcacefd34027cce71b3307
-  - name: copz
-    discriminator: "2584"
-    id: "450927175047315457"
-    hwid: a547c78589be23b1c33acb5244e0c6fd
   - name: MetuMortis
     discriminator: "4431"
     id: "314774529207566337"
@@ -19,12 +15,4 @@ RewardSystem:
     discriminator: "0618"
     id: "397782545950965782"
     licence_code: 22a5a71ebb6bfc6cb2df491f975be0f0b06b
-  - name: copz
-    discriminator: "2584"
-    id: "450927175047315457"
-    licence_code: a547c78589be23b1c33acb5244e0c6fd4d82
-  - name: copz
-    discriminator: "2584"
-    id: "450927175047315457"
-    licence_code: a547c78589be23b1c33acb5244e0c6fd505e
 DamageIndicator: []
