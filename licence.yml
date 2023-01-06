@@ -19,4 +19,8 @@ RewardSystem:
     discriminator: "2584"
     id: "450927175047315457"
     licence_code: a547c78589be23b1c33acb5244e0c6fd505e
+  - name: Efehan
+    discriminator: "0001"
+    id: "852613752461328405"
+    licence_code: "1616"
 DamageIndicator: []
