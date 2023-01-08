@@ -19,4 +19,8 @@ RewardSystem:
     discriminator: "2584"
     id: "450927175047315457"
     licence_code: a547c78589be23b1c33acb5244e0c6fd505e
+  - name: serhatgzze
+    discriminator: "9082"
+    id: "1030556418266382386"
+    licence_code: 380dc153406f450e83750b051ca3664814529
 DamageIndicator: []
