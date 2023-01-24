@@ -27,4 +27,8 @@ RewardSystem:
     discriminator: "1982"
     id: "1026463631631712307"
     licence_code: a547c78589be23b1c33acb5244e0c6fd4bf7
+  - name: copz
+    discriminator: "2584"
+    id: "450927175047315457"
+    licence_code: a547c78589be23b1c33acb5244e0c6fd32ec
 DamageIndicator: []
