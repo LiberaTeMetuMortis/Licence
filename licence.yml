@@ -15,10 +15,6 @@ RewardSystem:
     discriminator: "0618"
     id: "397782545950965782"
     licence_code: 22a5a71ebb6bfc6cb2df491f975be0f0b06b
-  - name: copz
-    discriminator: "2584"
-    id: "450927175047315457"
-    licence_code: a547c78589be23b1c33acb5244e0c6fd505e
   - name: serhatgzze
     discriminator: "9082"
     id: "1030556418266382386"
