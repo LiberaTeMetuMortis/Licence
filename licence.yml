@@ -47,4 +47,8 @@ RewardSystem:
     discriminator: "3469"
     id: "1008795228276265082"
     licence_code: 90c2efa6ddc7d9d7327937096504d90251fd
+  - name: Miu
+    discriminator: "3469"
+    id: "1008795228276265082"
+    licence_code: 831405352ee432b22019f8cbeef56ebf1062b
 DamageIndicator: []
