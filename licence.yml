@@ -65,3 +65,7 @@ CyprusAC:
     discriminator: "0001"
     id: "852613752461328405"
     licence_code: 5e035f48a4183ab725d8bbd018d1cf8cBDCA
+  - name: Efehan
+    discriminator: "0001"
+    id: "852613752461328405"
+    licence_code: 5e035f48a4183ab725d8bbd018d1cf8cBBD6
