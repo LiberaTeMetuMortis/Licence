@@ -55,6 +55,10 @@ RewardSystem:
     discriminator: "4204"
     id: "741566153280847893"
     licence_code: a547c78589be23b1c33acb5244e0c6fd334d7
+  - name: Vosiekip
+    discriminator: "0700"
+    id: "754244798918950942"
+    licence_code: f2119fe5a12e4740284a680c3f0e0f4a
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
