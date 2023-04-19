@@ -59,6 +59,10 @@ RewardSystem:
     discriminator: "0700"
     id: "754244798918950942"
     licence_code: f2119fe5a12e4740284a680c3f0e0f4a
+  - name: kitsoo_
+    discriminator: "0733"
+    id: "1026463631631712307"
+    licence_code: a547c78589be23b1c33acb5244e0c6fd344c0
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
