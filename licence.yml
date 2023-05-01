@@ -63,6 +63,10 @@ RewardSystem:
     discriminator: "0733"
     id: "1026463631631712307"
     licence_code: a547c78589be23b1c33acb5244e0c6fd344c0
+  - name: MetuMortis
+    discriminator: "4431"
+    id: "314774529207566337"
+    licence_code: 915a68cb00688904147f78cb7f3ab666163ec
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
