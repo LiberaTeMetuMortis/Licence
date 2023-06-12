@@ -71,6 +71,10 @@ RewardSystem:
     discriminator: "4204"
     id: "741566153280847893"
     licence_code: a547c78589be23b1c33acb5244e0c6fd236ff
+  - name: copz
+    discriminator: "0"
+    id: "450927175047315457"
+    licence_code: a547c78589be23b1c33acb5244e0c6fd271cd
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
