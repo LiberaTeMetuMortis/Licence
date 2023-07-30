@@ -51,10 +51,6 @@ RewardSystem:
     discriminator: "3469"
     id: "1008795228276265082"
     licence_code: 831405352ee432b22019f8cbeef56ebf1062b
-  - name: swiper
-    discriminator: "4204"
-    id: "741566153280847893"
-    licence_code: a547c78589be23b1c33acb5244e0c6fd334d7
   - name: Vosiekip
     discriminator: "0700"
     id: "754244798918950942"
@@ -67,10 +63,6 @@ RewardSystem:
     discriminator: "4431"
     id: "314774529207566337"
     licence_code: 915a68cb00688904147f78cb7f3ab666163ec
-  - name: Akito
-    discriminator: "4204"
-    id: "741566153280847893"
-    licence_code: a547c78589be23b1c33acb5244e0c6fd236ff
   - name: copz
     discriminator: "0"
     id: "450927175047315457"
