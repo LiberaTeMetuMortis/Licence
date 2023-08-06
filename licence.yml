@@ -71,6 +71,10 @@ RewardSystem:
     discriminator: "0"
     id: "741566153280847893"
     licence_code: a547c78589be23b1c33acb5244e0c6fd2a2
+  - name: heyson1026
+    discriminator: "0"
+    id: "328517755143716865"
+    licence_code: 32694075bbc0dafb307704c9b789ae15
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
