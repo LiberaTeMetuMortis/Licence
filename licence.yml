@@ -79,6 +79,10 @@ RewardSystem:
     discriminator: "0"
     id: "328517755143716865"
     licence_code: e97ed48df5f6183a799d26fa5619d0894a76
+  - name: pixelruler
+    discriminator: "0"
+    id: "95622109962711040"
+    licence_code: 574986f390d9c0d036ef1ae6ae9b7531d16
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
