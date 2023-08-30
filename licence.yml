@@ -91,6 +91,10 @@ RewardSystem:
     discriminator: "0"
     id: "233269126234112010"
     licence_code: 22a5a71ebb6bfc6cb2df491f975be0f0
+  - name: mrzykot
+    discriminator: "0"
+    id: "233269126234112010"
+    licence_code: 22a5a71ebb6bfc6cb2df491f975be0f016064
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
