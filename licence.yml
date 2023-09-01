@@ -103,6 +103,10 @@ RewardSystem:
     discriminator: "0"
     id: "397782545950965782"
     licence_code: f27a6954d5be752386e4dca02dc78b7e
+  - name: bladerr1
+    discriminator: "0"
+    id: "329771161359482881"
+    licence_code: a547c78589be23b1c33acb5244e0c6fd4739
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
