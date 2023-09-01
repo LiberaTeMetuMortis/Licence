@@ -95,6 +95,10 @@ RewardSystem:
     discriminator: "0"
     id: "233269126234112010"
     licence_code: 22a5a71ebb6bfc6cb2df491f975be0f016064
+  - name: miu8534
+    discriminator: "0"
+    id: "1008795228276265082"
+    licence_code: 831405352ee432b22019f8cbeef56ebf
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
