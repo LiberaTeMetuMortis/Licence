@@ -99,6 +99,10 @@ RewardSystem:
     discriminator: "0"
     id: "1008795228276265082"
     licence_code: 831405352ee432b22019f8cbeef56ebf
+  - name: blestit
+    discriminator: "0"
+    id: "397782545950965782"
+    licence_code: f27a6954d5be752386e4dca02dc78b7e
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
