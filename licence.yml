@@ -107,6 +107,10 @@ RewardSystem:
     discriminator: "0"
     id: "329771161359482881"
     licence_code: a547c78589be23b1c33acb5244e0c6fd4739
+  - name: efeskew
+    discriminator: "0"
+    id: "270459869763469312"
+    licence_code: a547c78589be23b1c33acb5244e0c6fd
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
