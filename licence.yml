@@ -111,6 +111,10 @@ RewardSystem:
     discriminator: "0"
     id: "270459869763469312"
     licence_code: a547c78589be23b1c33acb5244e0c6fd
+  - name: agropro
+    discriminator: "0"
+    id: "325658131977994241"
+    licence_code: 6bcb2600ff4ed1bab7aebdd41b485afc
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
