@@ -115,6 +115,10 @@ RewardSystem:
     discriminator: "0"
     id: "325658131977994241"
     licence_code: 6bcb2600ff4ed1bab7aebdd41b485afc
+  - name: sorakazuma
+    discriminator: "0"
+    id: "256831073315454977"
+    licence_code: https://discord.com/channels/@me/1153022224874360833/1153026434579832842
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
