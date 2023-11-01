@@ -123,6 +123,10 @@ RewardSystem:
     discriminator: "7452"
     id: "1021364597720096768"
     licence_code: 574986f390d9c0d036ef1ae6ae9b7531
+  - name: arwale
+    discriminator: "0"
+    id: "203134493773529088"
+    licence_code: 075ca01d1b8e2a713110d505bc3fc689
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
