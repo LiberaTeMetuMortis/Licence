@@ -119,6 +119,10 @@ RewardSystem:
     discriminator: "0"
     id: "256831073315454977"
     licence_code: https://discord.com/channels/@me/1153022224874360833/1153026434579832842
+  - name: McFania.net
+    discriminator: "7452"
+    id: "1021364597720096768"
+    licence_code: 574986f390d9c0d036ef1ae6ae9b7531
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
