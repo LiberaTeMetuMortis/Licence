@@ -131,6 +131,10 @@ RewardSystem:
     discriminator: "0"
     id: "301524766404247562"
     licence_code: 13fef7e3802218dda4502c9ede03301a
+  - name: cupjok
+    discriminator: "0"
+    id: "301524766404247562"
+    licence_code: 22d74fe8e10d03526473e6ba63c3e862
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
