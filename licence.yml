@@ -126,8 +126,7 @@ RewardSystem:
   - name: arwale
     discriminator: "0"
     id: "203134493773529088"
-    licence_code:
-075ca01d1b8e2a713110d505bc3fc689
+    licence_code: 075ca01d1b8e2a713110d505bc3fc689
   - name: cupjok
     discriminator: "0"
     id: "301524766404247562"
