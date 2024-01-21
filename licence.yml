@@ -139,6 +139,11 @@ RewardSystem:
     discriminator: "0"
     id: "301524766404247562"
     licence_code: 3f865cc6e5993ea3c5725ab3c999d373
+  - name: loadover
+    discriminator: "0"
+    id: "452109333229207572"
+    licence_code: f7f636b8e31c3e00a7b23c8e0e5ed7b9
+    
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
