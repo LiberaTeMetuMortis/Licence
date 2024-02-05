@@ -143,7 +143,10 @@ RewardSystem:
     discriminator: "0"
     id: "452109333229207572"
     licence_code: f7f636b8e31c3e00a7b23c8e0e5ed7b9
-    
+  - name: gosmos
+    discriminator: "0"
+    id: "789923678858248192"
+    licence_code:  643bca5888558b5227fab6d435ceb5f5   
 DamageIndicator:
   - name: MetuMortis
     discriminator: "4431"
@@ -166,3 +169,4 @@ CyprusAC:
     discriminator: "0"
     id: "852613752461328405"
     licence_code: 22a5a71ebb6bfc6cb2df491f975be0f06B6F
+
