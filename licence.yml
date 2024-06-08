@@ -154,11 +154,15 @@ RewardSystem:
   - name: gosmos
     discriminator: "0"
     id: "789923678858248192"
-    licence_code:  643bca5888558b5227fab6d435ceb5f5   
+    licence_code:  643bca5888558b5227fab6d435ceb5f5
   - name: david.0.2
     discriminator: "0"
     id: "555656689706336266"
-    licence_code:  a2a6bebf5c60ea3b82bb3152f721d5d8  
+    licence_code:  a2a6bebf5c60ea3b82bb3152f721d5d8 
+  - name: nesixxx
+    discriminator: "0"
+    id: "313582436288036864"
+    licence_code:  d51e4b77200d6d2d409cb150d15fb34b
 
 DamageIndicator:
   - name: MetuMortis
