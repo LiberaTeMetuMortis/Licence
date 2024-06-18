@@ -163,6 +163,10 @@ RewardSystem:
     discriminator: "0"
     id: "313582436288036864"
     licence_code:  d51e4b77200d6d2d409cb150d15fb34b
+  - name: xdaddyronnen
+    discriminator: "0"
+    id: "757964350542708796"
+    licence_code:  cb7f80d62796f95b09ecf351e02091ca
 
 DamageIndicator:
   - name: MetuMortis
