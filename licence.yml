@@ -171,6 +171,10 @@ RewardSystem:
     discriminator: "0"
     id: "757964350542708796"
     licence_code:  cb7f80d62796f95b09ecf351e02091ca
+  - name: hidius
+    discriminator: "0"
+    id: "946137070861160509"
+    licence_code:  7f130c7ee8204023cac68e2114a0a252
 
 DamageIndicator:
   - name: MetuMortis
