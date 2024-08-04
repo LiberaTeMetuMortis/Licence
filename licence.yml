@@ -175,6 +175,10 @@ RewardSystem:
     discriminator: "0"
     id: "946137070861160509"
     licence_code:  7f130c7ee8204023cac68e2114a0a252
+  - name: s4nee
+    discriminator: "0"
+    id: "970005702066176060"
+    licence_code:  fd4ef85991dea364048748a45f5d4ca0
 
 DamageIndicator:
   - name: MetuMortis
