@@ -155,6 +155,10 @@ RewardSystem:
     discriminator: "0"
     id: "301524766404247562"
     licence_code: bb7d621cf45f175379cecc40a8d4bbcf
+  - name: cupjok
+    discriminator: "0"
+    id: "301524766404247562"
+    licence_code: e7d924208ed6b8e375ccbbae3e10cd22
   - name: loadover
     discriminator: "0"
     id: "452109333229207572"
