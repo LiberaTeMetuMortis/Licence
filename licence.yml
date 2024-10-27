@@ -215,6 +215,14 @@ RewardSystem:
     discriminator: "0"
     id: ""
     licence_code:  08e290363f5ef54ca84e60be6b92c9ca
+  - name: keezo
+    discriminator: "0"
+    id: "748282646043295755"
+    licence_code:  a547c78589be23b1c33acb5244e0c6fd
+  - name: keezotest
+    discriminator: "0"
+    id: "748282646043295755"
+    licence_code:  
     
 
 DamageIndicator:
