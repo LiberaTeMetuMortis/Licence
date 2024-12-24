@@ -227,6 +227,10 @@ RewardSystem:
     discriminator: "0"
     id: "748282646043295755"
     licence_code:  a547c78589be23b1c33acb5244e0c6fd
+  - name: keezo
+    discriminator: "0"
+    id: "748282646043295755"
+    licence_code:  6aceb70b42f6d04482761cdb873e05f5
   - name: keezotest
     discriminator: "0"
     id: "748282646043295755"
