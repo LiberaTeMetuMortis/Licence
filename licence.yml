@@ -243,6 +243,10 @@ RewardSystem:
     discriminator: "0"
     id: "298185880449843202"
     licence_code:  a547c78589be23b1c33acb5244e0c6fd
+  - name: Mochi
+    discriminator: "0"
+    id: "1123991221350703164"
+    licence_code:  22a5a71ebb6bfc6cb2df491f975be0f0
     
 
 DamageIndicator:
