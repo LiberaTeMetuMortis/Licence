@@ -247,6 +247,10 @@ RewardSystem:
     discriminator: "0"
     id: "1123991221350703164"
     licence_code:  22a5a71ebb6bfc6cb2df491f975be0f0
+  - name: Lolome
+    discriminator: "0"
+    id: "366045584362176513"
+    licence_code:  22a5a71ebb6bfc6cb2df491f975be0f0
     
 
 DamageIndicator:
