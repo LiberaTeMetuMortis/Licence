@@ -251,6 +251,10 @@ RewardSystem:
     discriminator: "0"
     id: "366045584362176513"
     licence_code:  37a890174f07e42a6cac6f6fbdf5340d
+  - name: blestitlocal
+    discriminator: "0"
+    id: ""
+    licence_code:  4a06ab865524a2049f0f4922cb1bdb99
     
 
 DamageIndicator:
