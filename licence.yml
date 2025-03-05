@@ -255,6 +255,10 @@ RewardSystem:
     discriminator: "0"
     id: ""
     licence_code:  4a06ab865524a2049f0f4922cb1bdb99
+  - name: alone
+    discriminator: "0"
+    id: "1008795228276265082"
+    licence_code:  39820a1b9da3219e509c10adddbcdd1d
     
 
 DamageIndicator:
