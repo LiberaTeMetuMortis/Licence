@@ -259,6 +259,10 @@ RewardSystem:
     discriminator: "0"
     id: "1008795228276265082"
     licence_code:  39820a1b9da3219e509c10adddbcdd1d
+  - name: regortread
+    discriminator: "0"
+    id: "672059049071607818"
+    licence_code:  bc3962a84f37c5d7572bd1e4a36ef7d1
     
 
 DamageIndicator:
