@@ -91,6 +91,10 @@ RewardSystem:
     discriminator: "0"
     id: "761233607799865344"
     licence_code: a547c78589be23b1c33acb5244e0c6fd50fb
+  - name: maftyyn
+    discriminator: "0"
+    id: "761233607799865344"
+    licence_code: a547c78589be23b1c33acb5244e0c6fddb
   - name: mrzykot
     discriminator: "0"
     id: "233269126234112010"
